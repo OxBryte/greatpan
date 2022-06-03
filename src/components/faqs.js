@@ -1,19 +1,17 @@
 import '../App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import '../styles/roadmap.css'
+import '../styles/faqs.css'
 
 
-function Roadmap() {
+function Faqs() {
   return (
-    <div className="roadmap">
+    <div className="faqs">
         <div className='container'>
             <div className='row'>
                 <div className='col-12'>
                     <h1>Roadmap</h1>
                 </div>
-                <div className='col-12'>
-                    <h1>okay</h1>
-                </div>
+                
             </div>
 
         </div>
@@ -21,4 +19,4 @@ function Roadmap() {
   );
 }
 
-export default Roadmap;
+export default Faqs;
