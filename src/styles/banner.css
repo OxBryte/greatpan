@@ -1,0 +1,47 @@
+* {
+
+}
+
+
+.banner {
+    position: relative;
+    background-position: center;
+    background-image: url(../images/banner.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+
+.navbar {
+    position: relative;
+    font-size: 20px;
+    color: #ffffff;
+}
+
+.banner-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner-text h1 {
+    font-family: 'Piedra';
+    text-align: center;
+    color: #ffffff;
+    font-size: 80px;
+    font-weight: 800;
+    margin-top: 150px !important;
+}
+
+.banner-text h2 {
+    font-family: 'Piedra';
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 30px;
+    width: 800px !important;
+    line-height: 35px;
+    font-weight: 300;
+}

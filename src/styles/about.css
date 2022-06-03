@@ -1,0 +1,37 @@
+.about {
+    height: 800px;
+    width: auto;
+    background-color: #0A180B;
+    padding: 50px;
+    color: #ffffff;
+}
+
+.about-image h1 {
+    font-family: 'Piedra';
+    text-align: center;
+    color: #ffffff;
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.about-text h1 {
+    font-family: 'Piedra';
+    color: #ffffff;
+    font-size: 43px;
+    margin-top: 150px;
+    margin-bottom: -100px;
+    font-weight: 800;
+}
+
+.about-text h2 {
+    font-family: 'Piedra';
+    color: #ffffff;
+    text-align: justify;
+    font-size: 25px;
+    line-height: 35px;
+    font-weight: 200;
+}
+
+.about-image img {
+    padding: 10px;
+}
