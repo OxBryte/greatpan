@@ -10,7 +10,17 @@
     font-family: 'Piedra';
     text-align: center;
     font-size: 50px;
+    margin-bottom: 20px;
 }
+
+/* .line {
+    height: 5px;
+    display: flex;
+    align-items: center;
+    margin: 20px;
+    background-color: #ffffff;
+    border-radius: 20px;
+} */
 
 .roadmap-content {
     display: flex;
@@ -20,7 +30,7 @@
 
 .roadmap-item {
     width: 270px;
-    height: 270px;
+    height: 220px;
     border: #ffffff 1px solid;
     border-radius: 20px;
     padding: 20px;
@@ -29,7 +39,18 @@
     align-items: center;
     text-align: center;
 }
+.roadmap-item h3 {
+    font-size: 30px;
+    font-weight: 700;
+}
 
 .roadmap-item li {
     list-style: none;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 300;
+}
+
+.roadmap-item ul {
+    padding: 0%;
 }
