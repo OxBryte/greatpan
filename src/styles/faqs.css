@@ -1,0 +1,36 @@
+.faqs {
+    width: 100%;
+    height: auto;
+    padding: 50px;
+    background-color: #0A180B;
+    color: #ffffff;
+}
+
+.faqs h1 {
+    font-family: 'Piedra';
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.accordian {
+    background: none !important;
+}
+
+.accordian-header{
+    background-color: none !important;
+    color: #ffffff;
+    margin-bottom: 10px;
+
+}
+
+.accordion-button {
+    background: none !important;
+    border-radius: 20px !important;
+    color: #ffffff;
+    border: #ffffff 1px solid ;
+}
+
+.accordion-button::after {
+    color: #ffffff;
+}
