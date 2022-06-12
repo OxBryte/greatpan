@@ -31,6 +31,14 @@
     border: #ffffff 1px solid ;
 }
 
+.accordion-button:focus {
+    border-color: none !important;
+}
+
+.accordion-button:not(.collapsed){
+    color: none !important;
+}
+
 .accordion-button::after {
     color: #ffffff;
 }

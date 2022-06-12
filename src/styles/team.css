@@ -1,0 +1,38 @@
+.team {
+    width: 100%;
+    height: auto;
+    padding: 50px;
+    background-color: #0A180B;
+    /* color: #ffffff; */
+}
+
+.team h1 {
+    font-family: 'Piedra';
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+.card-group {
+    justify-content: center !important;
+    margin-left: 0% !important;
+    align-items: center;
+}
+
+.card {
+    background: none !important;
+    margin: 10px;
+    border: none;
+
+}
+
+.card-body {
+    color: #fff !important;
+    align-items: center;
+    text-align: center;
+}
+
+.card-title {
+    font-weight: 800;
+}

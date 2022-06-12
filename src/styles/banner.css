@@ -19,6 +19,16 @@
     color: #ffffff;
 }
 
+.nav-link {
+    color: #ffffff;
+    font-weight: 800;
+}
+
+.nav-link:hover {
+    color: lightgreen;
+    font-weight: 800;
+}
+
 .banner-text {
     display: flex;
     justify-content: center;
