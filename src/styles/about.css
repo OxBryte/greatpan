@@ -6,12 +6,21 @@
     color: #ffffff;
 }
 
+.about h1 {
+    font-family: 'Piedra';
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 20px;
+    color: #fff;
+}
+
 .about-text {
     padding: 10px;
 }
 
 .about-text h1 {
     font-family: 'Piedra';
+    text-align: center;
     font-size: 60px;
     margin-bottom: 10px;
 }
@@ -31,4 +40,5 @@
 
 .about-image img {
     padding: 10px;
+    
 }

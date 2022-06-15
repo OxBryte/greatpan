@@ -16,7 +16,7 @@
 
 .card-group {
     justify-content: center !important;
-    margin-left: 0% !important;
+    margin: 0% !important;
     align-items: center;
 }
 
@@ -24,6 +24,7 @@
     background: none !important;
     margin: 10px;
     border: none;
+    justify-content: center !important;
 
 }
 
