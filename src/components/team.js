@@ -17,8 +17,8 @@ function Team() {
                 <div className='col-12'>
                     <h1>Team</h1>
                 </div>
-                <CardGroup className='row'>
-                    <Card style={{ width: '15rem' }}>
+                <CardGroup className='row col-12'>
+                    <Card style={{ width: '15rem' }} >
                         <Card.Img variant="top" src={about2} />
                         <Card.Body>
                             <Card.Title>Card Title</Card.Title>
@@ -46,7 +46,7 @@ function Team() {
                             {/* <Card.Link href="#">Another Link</Card.Link> */}
                         </Card.Body>
                     </Card>
-                    <Card style={{ width: '15rem' }}>
+                    <Card style={{ width: '15rem' }} className='col-md-6'>
                         <Card.Img variant="top" src={about4} />
                         <Card.Body>
                             <Card.Title>Card Title</Card.Title>
@@ -60,7 +60,7 @@ function Team() {
                             {/* <Card.Link href="#">Another Link</Card.Link> */}
                         </Card.Body>
                     </Card>
-                    <Card style={{ width: '15rem' }}>
+                    <Card style={{ width: '15rem' }} className='col-md-6'>
                         <Card.Img variant="top" src={about1} />
                         <Card.Body>
                             <Card.Title>Card Title</Card.Title>

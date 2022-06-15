@@ -13,7 +13,7 @@ function Roadmap() {
                 </div>
                 {/* <div className='line'></div> */}
                 <div className='row col-12 roadmap-content'>
-                    <div className='roadmap-item col-3'>
+                    <div className='roadmap-item col-3 col-xs-6'>
                         <h3>Phase 1</h3>
                         <ul>
                             <li>Launching of NFT (GreatPan)</li>
@@ -22,7 +22,7 @@ function Roadmap() {
                             <li>Mint Great Pan</li>
                         </ul>
                     </div>
-                    <div className='roadmap-item col-3'>
+                    <div className='roadmap-item col-3 col-xs-6'>
                         <h3>Phase 2</h3>
                         <ul>
                             <li>Whitepaper Release</li>
@@ -31,7 +31,7 @@ function Roadmap() {
                             <li>Team Expansion</li>
                         </ul>
                     </div>
-                    <div className='roadmap-item col-3'>
+                    <div className='roadmap-item col-3 col-xs-6'>
                         <h3>Phase 3</h3>
                         <ul>
                             <li>Truce Landing Page</li>
@@ -40,7 +40,7 @@ function Roadmap() {
                             <li>roadmap</li>
                         </ul>
                     </div>
-                    <div className='roadmap-item col-3'>
+                    <div className='roadmap-item col-3 col-xs-6'>
                         <h3>Phase 4</h3>
                         <ul>
                             <li>Truce Fair Launch (testnet)</li>

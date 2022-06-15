@@ -1,35 +1,32 @@
 .about {
-    height: 800px;
-    width: auto;
+    height: auto;
+    width: 100%;
     background-color: #0A180B;
     padding: 50px;
     color: #ffffff;
 }
 
-.about-image h1 {
-    font-family: 'Piedra';
-    text-align: center;
-    color: #ffffff;
-    font-size: 50px;
-    font-weight: 800;
+.about-text {
+    padding: 10px;
 }
 
 .about-text h1 {
     font-family: 'Piedra';
-    color: #ffffff;
-    font-size: 43px;
-    margin-top: 150px;
-    margin-bottom: -100px;
-    font-weight: 800;
+    font-size: 60px;
+    margin-bottom: 10px;
 }
 
 .about-text h2 {
-    font-family: 'Piedra';
     color: #ffffff;
-    text-align: justify;
-    font-size: 25px;
+    font-size: 45px;
+    font-weight: 500;
+}
+
+.about-text h3 {
+    font-size: 30px;
+    font-weight: 300;
     line-height: 35px;
-    font-weight: 200;
+    text-align: justify;
 }
 
 .about-image img {
