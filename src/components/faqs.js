@@ -14,51 +14,27 @@ function Faqs() {
                 </div>
                 <Accordion flush>
                     <Accordion.Item eventKey="0" className='accordian'>
-                        <Accordion.Header className='accordian-header'>When is mint?</Accordion.Header>
+                        <Accordion.Header className='accordian-header'>Why GreatPan NFT?</Accordion.Header>
                         <Accordion.Body>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-                        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-                        commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                        cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
-                        est laborum.
+                        Our aims and concepts are distinct, allowing us to stand out. In various ways, where we deliver and how our platform operates, we are unique in our ambitions and ideas. Our initiative is based on the notion of bringing out the interests and benefits of TRUCE users.
                         </Accordion.Body>
                     </Accordion.Item>
                     <Accordion.Item eventKey="1" className='accordian'>
-                        <Accordion.Header className='accordian-header'>When is launch?</Accordion.Header>
+                        <Accordion.Header className='accordian-header'>Total Supply?</Accordion.Header>
                         <Accordion.Body>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-                        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-                        commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                        cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
-                        est laborum.
+                        2222 GreatPan collection on the NEAR blockchain.
                         </Accordion.Body>
                     </Accordion.Item>
                     <Accordion.Item eventKey="2" className='accordian'>
-                        <Accordion.Header className='accordian-header'>When is roadmap release?</Accordion.Header>
+                        <Accordion.Header className='accordian-header'>Mint Date and Time?</Accordion.Header>
                         <Accordion.Body>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-                        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-                        commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                        cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
-                        est laborum.
+                        TBA
                         </Accordion.Body>
                     </Accordion.Item>
                     <Accordion.Item eventKey="3" className='accordian'>
-                        <Accordion.Header className='accordian-header'>When is mint price?</Accordion.Header>
+                        <Accordion.Header className='accordian-header'>Mint Price?</Accordion.Header>
                         <Accordion.Body>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-                        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-                        commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                        cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
-                        est laborum.
+                        8 Near
                         </Accordion.Body>
                     </Accordion.Item>
                 </Accordion>

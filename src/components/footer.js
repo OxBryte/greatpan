@@ -8,13 +8,13 @@ function Footer() {
   return (
     <div className="footer">
         <div className='container'>
-            <div className='row'>
-                <div className=''>
-                    <i className='icon'><Discord color="#ffffff" size={40} /></i>
-                    <i className='icon'><Twitter color="#ffffff" size={40} /></i>
-                    {/* <i className='col-4'><Discord color="#ffffff" size={40} /></i> */}
-                </div>
+          <div className='row'>
+            <span>copyright 2022</span>
+            <div className='icon'>
+                <a href=''><Discord color="#ffffff" size={40} /></a>
+                <a href=''><Twitter color="#ffffff" size={40} /></a>
             </div>
+          </div>
         </div>
     </div>
   );
