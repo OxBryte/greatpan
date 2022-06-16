@@ -6,6 +6,10 @@
     color: #ffffff;
 }
 
+.about-item {
+    padding-inline: 50px;
+}
+
 .about h1 {
     font-family: 'Piedra';
     text-align: center;
@@ -18,27 +22,30 @@
     padding: 10px;
 }
 
-.about-text h1 {
-    font-family: 'Piedra';
-    text-align: center;
-    font-size: 60px;
-    margin-bottom: 10px;
-}
-
 .about-text h2 {
-    color: #ffffff;
-    font-size: 45px;
-    font-weight: 500;
+    margin-top: 20px;
+    color: hsla(0, 0%, 100%, 0.888);
+    font-size: 30px;
+    font-weight: 700;
 }
 
 .about-text h3 {
-    font-size: 30px;
-    font-weight: 300;
+    font-size: 25px;
+    font-style: normal;
     line-height: 35px;
+    color: hsla(0, 0%, 100%, 0.888);
     text-align: justify;
+
 }
 
 .about-image img {
     padding: 10px;
     
+}
+
+@media (min-width: 576px) {
+    .col-sm-12 {
+        text-align: center;
+        padding: 0;
+    }
 }
