@@ -2,7 +2,6 @@ import '../App.css';
 import Nav from 'react-bootstrap/Nav'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import '../styles/banner.css'
-// import banner from '../images/banner.svg'
 
 
 function Banner() {
