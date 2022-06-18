@@ -5,8 +5,13 @@
     background-image: url(../images/banner.svg);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 800px;
+    height: 820px;
     width: 100%;
+}
+
+.banner5 {
+    justify-content: center;
+    margin: 0;
 }
 
 .navbar {
@@ -51,4 +56,18 @@
     /* width: 800px !important; */
     line-height: 35px;
     font-weight: 300;
+}
+@media (max-width: 576px) {
+    .banner-text h2 {
+        margin-top: -10px;
+        font-size: 22px;
+        padding: 10px;
+    }
+}
+@media (max-width: 1024px) {
+    .banner-text h2 {
+        margin-top: -10px;
+        font-size: 22px;
+        padding: 10px;
+    }
 }

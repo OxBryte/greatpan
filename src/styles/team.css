@@ -28,6 +28,11 @@
 
 }
 
+.cardry {
+    justify-content: center;
+    display: flex;
+}
+
 .card-body {
     color: #fff !important;
     align-items: center;
