@@ -2,28 +2,16 @@ import '../App.css';
 import Nav from 'react-bootstrap/Nav'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import '../styles/banner.css'
+import Head from '../images/HEAD.png'
 
 
 function Banner() {
   return (
     <div className="banner">
         <div className='container'>
-            {/* <div className='row navbar'>
-                <Nav className="justify-content-center" activeKey="/home">
-                    <Nav.Item>
-                        <Nav.Link href="/home">About</Nav.Link>
-                    </Nav.Item>
-                    <Nav.Item>
-                        <Nav.Link href="/About">Roadmap</Nav.Link>
-                    </Nav.Item>
-                    <Nav.Item>
-                        <Nav.Link eventKey="">Team</Nav.Link>
-                    </Nav.Item>
-                    <Nav.Item>
-                        <Nav.Link eventKey="">Faqs</Nav.Link>
-                    </Nav.Item>
-                </Nav>
-            </div> */}
+            <div className='row '>
+                <img className='logo' src={Head} alt='' style={{ width: "200px" }} />
+            </div>
             <div className='row banner5 col-12'>
                 <div className='row banner-text col-12'>
                     <h1>GreatPan</h1>
